@@ -1,3 +1,7 @@
 # Workshop 2
 
 The second workshop of CS326, which covers how to use Git in a group setting.
+Hey there, how are you? Are you having a good time? I hope so.
+:)
+wow this is more involved than it should be.
+last line I think
